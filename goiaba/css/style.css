@@ -1,0 +1,12 @@
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botão-inativo:#1E1E1E;
+    --texto-fundo:#6FFF57;
+    --verde: #6FFF57;
+
+}
+h1 {
+    font-family:Webdings,fantasy;
+}
