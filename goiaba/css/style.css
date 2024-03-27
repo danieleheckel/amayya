@@ -1,12 +1,50 @@
 :root{
-    --cor-de-fundo: #1E1E1E;
-    --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botão-inativo:#1E1E1E;
-    --texto-fundo:#6FFF57;
-    --verde: #6FFF57;
-
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+.botao1 {
+    background-color: #a482c0;
+    border-color: #8349b9;
+    border-width: 3cap;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+.botao2 {
+    background-color: #a482c0;
+    border-color: #8349b9;
+    border-width: 3cap;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+.botao3 {
+    background-color: #a482c0;
+    border-color: #8349b9;
+    border-width: 3cap;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+.botao4 {
+    background-color: #a482c0;
+    border-color: #8349b9;
+    border-width: 3cap;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+button:active {
+    background-color: #8349b9;
+}
+button:hover {
+    background-color: #5957db;
+    opacity: 60%;
 }
 h1 {
-    font-family:Webdings,fantasy;
+    font-family:Webdings;
 }
