@@ -2,6 +2,7 @@
     background-color: #1E1E1E;
     color: #FFFFFF;
 }
+
 .botao1 {
     background-color: #a482c0;
     border-color: #8349b9;
@@ -10,6 +11,7 @@
     border-radius: 10px;
     width: 150px;
     height: 40px;
+    font-family: "alumni-sans-inline-one", sans-serif;
 }
 .botao2 {
     background-color: #a482c0;
@@ -45,6 +47,22 @@ button:hover {
     background-color: #5957db;
     opacity: 60%;
 }
+
 h1 {
-    font-family:Webdings;
+    font-family:Apple Chancery, cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    text-shadow:
+      -2px -2px 0 #8349b9,
+      -2px -2px 0 #8349b9,
+      2px 2px 0 #8349b9,
+      2px 2px 0 #8349b9;
+}
+@font-face {
+    font-family: fontes;
+    src: url(fontes/hello_valentica/hello_valentica.ttf);
+};
+h2 {
+   font-family: fontes;
 }
